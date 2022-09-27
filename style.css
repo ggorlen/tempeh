@@ -10,7 +10,13 @@ html {
 }
 
 a,
-a[href]
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #ba8759;
+  text-decoration: none;
+}
 
 h2,
 h3,
