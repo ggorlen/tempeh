@@ -11,6 +11,10 @@ html {
   background-size: cover;
 }
 
+img {
+  max-width: 100%;
+}
+
 a,
 a:link,
 a:visited,
