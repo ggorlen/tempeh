@@ -4,15 +4,25 @@ html {
   margin: auto;
   line-height: 1.75;
   font-size: 1.25em;
-  background: no-repeat center center fixed url(https://cdn.glitch.global/b80a9aec-29f4-46ea-bf26-db9e4a95e52b/tempeh-1317282212.jpg?v=1664136225526);
+  background: no-repeat center center fixed
+    url(https://cdn.glitch.global/b80a9aec-29f4-46ea-bf26-db9e4a95e52b/tempeh-1317282212.jpg?v=1664136225526);
   background-size: cover;
 }
 
-h2,h3,h4,h5,h6 {
+a,
+a[href]
+
+h2,
+h3,
+h4,
+h5,
+h6 {
   margin: 3em 0 1em;
 }
 
-p,ul,ol {
+p,
+ul,
+ol {
   margin-bottom: 2em;
   color: #1d1d1d;
   font-family: serif;
