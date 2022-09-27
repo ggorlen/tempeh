@@ -11,10 +11,13 @@ html {
   background-size: cover;
 }
 
-img {
-  max-width: 100%;
+figure {
   margin-top: 1.5rem;
   margin-bottom: 1.5rem;
+}
+
+img {
+  max-width: 100%;
 }
 
 a,
