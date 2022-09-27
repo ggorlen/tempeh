@@ -1,4 +1,5 @@
-/* https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41 */
+/* 58 bytes of CSS to look great nearly everywhere by Joey Burzynski
+   https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41 */
 
 html {
   max-width: 70ch;
@@ -28,6 +29,10 @@ a:active {
   color: #9b7653;
 }
 
+h1 {
+  font-size: 2.25em;
+}
+
 h2,
 h3,
 h4,
@@ -40,7 +45,7 @@ p,
 ul,
 ol {
   margin-bottom: 2em;
-  color: #1d1d1d;
+  color: #5d5d5d;
   font-family: serif;
 }
 
