@@ -1,3 +1,3 @@
-# tempeh.glitch.me
+# tempeh
 
 A how-to for delicious homemade tempeh.
